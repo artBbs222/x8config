@@ -8,6 +8,6 @@
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 1,
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 2,
     "SingleServerQueue.Skirmish.LeaveTimeout": 180,
-    "X8.RoundPhase.WarmupPhase.WarmupAllowRebalance": true
+    "X8.RoundPhase.Warmup_roundphase.WarmupWrapUpDuration": true
   }
 }
